@@ -1,0 +1,23 @@
+# Python environments and generated caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pyright/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# macOS and editor files
+.DS_Store
+.vscode/
+
+# Local reference/source files; the derived documentation is tracked instead.
+/國家法規all_example.html
+/docs/api/source/02_Agentic API_20260713A.pptx
